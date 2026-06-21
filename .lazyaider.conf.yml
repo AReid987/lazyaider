@@ -1,0 +1,18 @@
+llm_model: gemini-2.5-pro-preview-05-06
+llm_api_key: AIzaSyBKACPvJFzBLUe4HXSU4AiS3t4j6PuLY7A
+theme_name: textual-dark
+text_editor: nvim
+sidepane_percent_width: 25
+delay_send_input: 0.2
+label_color_completed: bright_green
+label_color_current: yellow
+managed_sessions:
+  lazyaider-session:
+    active_plan_name: null
+    plan_progress:
+      implement-user-auth:
+        last_aider_step: null
+  another-project:
+    active_plan_name: null
+    plan_progress: {}
+plan_generation_prompt_override_path: null
